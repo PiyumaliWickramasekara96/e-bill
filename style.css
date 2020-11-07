@@ -1,0 +1,36 @@
+body{
+     font-family: 'Elephant';
+     background-color: #014D4E;
+}
+
+h1{
+	font-size:50px; 
+	font-family:Impact;
+}
+
+
+
+.a{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: black;
+	font-family: 'Impact';
+	border-color:black;
+}
+
+.b{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 10px;
+	margin: 50px;
+	border-radius: 10px;
+	background-color: #13BBAF;
+	font-family: 'Impact';
+	
+	
+}
